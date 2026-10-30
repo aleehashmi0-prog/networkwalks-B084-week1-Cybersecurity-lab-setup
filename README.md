@@ -130,12 +130,12 @@ This lab helped me gain practical experience with:
 
 ```text
 README.md
-1-screenshot-nat-network.png
-2-screenshot-network-adapter.png
-3-screenshot-clipboard-settings.png
-4-screenshot-ip-configuration.png
-5-screenshot-internet-test.png
-6-screenshot-vm-snapshot.png
+1-screenshot 2026-10-30 103244.png
+2-screenshot 2026-10-30 103912.png
+3-snapshot 3.png.jpeg
+4-snapshot 4.png.jpeg
+5-snapshot 5.png.jpeg
+6-snapshot 6.png.jpeg
 ```
 
 ---
@@ -148,7 +148,7 @@ The cybersecurity lab environment was successfully configured according to the p
 
 ## 👤 Author
 
-Touseef Tariq
+Aleeha Hashmi
 
 Cybersecurity Student
 
